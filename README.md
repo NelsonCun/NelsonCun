@@ -36,31 +36,39 @@ Before transitioning into software engineering, I built a professional career in
 ## Featured projects
 
 ### Zooftware — Livestock Management Platform
-**Role:** Software Engineer / End-to-End Developer  
+
+**Role:** Software Engineer / End-to-End Developer
+
 **Stack:** NestJS · TypeScript · PostgreSQL · Prisma · Kotlin · Jetpack Compose · Docker · DigitalOcean
 
 End-to-end livestock-management system developed for a company and used as my thesis project. I am responsible for requirements, architecture, database design, backend, Android client, cloud deployment, troubleshooting, and maintenance.
 
 ---
 
-### Distributed Climate Monitoring Platform
-**Systems Operating 1 — USAC**  
-**Stack:** Go · Rust · Docker · Kubernetes · GCP · Kafka · RabbitMQ · Valkey · Grafana · gRPC · Locust
+### [Applied AI Systems](https://github.com/NelsonCun/applied-ai-systems)
 
-Distributed system for ingesting and processing climate data using containerized services, message brokers, gRPC, monitoring, load testing, and autoscaling on Kubernetes.
+**Artificial Intelligence 1 — USAC**
+
+**Stack:** Python · FastAPI · React · PostgreSQL · Prolog · OpenCV · OCR · Playwright · Celery · Redis · Docker · Pytest
+
+Collection of applied AI and backend systems including route inference with Prolog, a Telegram hospital bot, invoice processing with OCR/RPA, search-algorithm visualization, and an expert system for computer troubleshooting.
 
 ---
 
-### Artificial Intelligence Projects Portfolio
-**Artificial Intelligence 1 — USAC**  
-**Stack:** Python · FastAPI · React · PostgreSQL · Prolog · OpenCV · OCR · Playwright · Celery · Redis · Docker · Pytest
+### [Operating Systems & Cloud Engineering](https://github.com/NelsonCun/operating-systems-cloud-portfolio)
 
-Collection of practical AI systems including route inference with Prolog, a Telegram hospital bot, invoice processing with OCR/RPA, search-algorithm visualization, and an expert system for computer troubleshooting.
+**Operating Systems 1 — USAC**
+
+**Stack:** Go · Rust · Docker · Kubernetes · GCP · Kafka · RabbitMQ · Valkey · Grafana · gRPC · Locust
+
+Distributed system work covering climate-data ingestion and processing with containerized services, message brokers, gRPC, monitoring, load testing, autoscaling, and cloud-native infrastructure.
 
 ---
 
 ### Virtual Disk & File System Simulator
-**File Management and Implementation — USAC**  
+
+**File Management and Implementation — USAC**
+
 **Stack:** Go · React · Vite · Graphviz
 
 Academic filesystem simulator implementing virtual disks, MBR/EBR partitions, mounting, formatting, superblocks, inodes, blocks, bitmaps, users, and reports.
@@ -68,7 +76,9 @@ Academic filesystem simulator implementing virtual disks, MBR/EBR partitions, mo
 ---
 
 ### Relational-to-Document Database Migration
-**Database Systems 2 — USAC**  
+
+**Database Systems 2 — USAC**
+
 **Stack:** MySQL · MongoDB · Python · JavaScript · JSON
 
 Data migration and transformation pipeline that exported relational football World Cup data from MySQL, transformed it into a document-oriented model, created MongoDB collections and indexes, and supported structured queries.
@@ -76,7 +86,9 @@ Data migration and transformation pipeline that exported relational football Wor
 ---
 
 ### Routes, Vehicles & Travel Management
-**Data Structures — USAC**  
+
+**Data Structures — USAC**
+
 **Stack:** Python · Graphviz · Tkinter
 
 Application using manually implemented data structures including B-trees, adjacency lists, queues, linked lists, and graph-based route calculations.
