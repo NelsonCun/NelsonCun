@@ -65,13 +65,13 @@ Distributed system work covering climate-data ingestion and processing with cont
 
 ---
 
-### Virtual Disk & File System Simulator
+### [Virtual Filesystem & Disk Storage Engine](https://github.com/NelsonCun/go-virtual-filesystem)
 
 **File Management and Implementation — USAC**
 
-**Stack:** Go · React · Vite · Graphviz
+**Stack:** Go · Binary Storage · MBR/EBR · EXT2-style Filesystem · Graphviz · GitHub Actions
 
-Academic filesystem simulator implementing virtual disks, MBR/EBR partitions, mounting, formatting, superblocks, inodes, blocks, bitmaps, users, and reports.
+Systems-programming project implementing virtual disks, primary/extended/logical partitioning, binary metadata persistence, EXT2-style filesystem structures, deterministic mount state, path traversal, simulated authentication, Graphviz reports, and 18 deterministic regression tests.
 
 ---
 
