@@ -41,8 +41,6 @@ Before transitioning into software engineering, I built a professional career in
 
 End-to-end livestock-management system developed for a company and used as my thesis project. I am responsible for requirements, architecture, database design, backend, Android client, cloud deployment, troubleshooting, and maintenance.
 
-*A public technical case study will be available here without exposing proprietary source code.*
-
 ---
 
 ### Distributed Climate Monitoring Platform
